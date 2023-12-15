@@ -53,7 +53,7 @@
                         
     @section sec_br7    CAD REFERENCE
                         All CAD modeling from SolidWorks can be access in the "CAD" folder through
-                        https://github.com/vvinhvvo98/ME_405
+                        https://github.com/vvinhvvo98/ME405
                          
                         
    @author              Vinh Vo
