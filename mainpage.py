@@ -140,7 +140,6 @@
                         
                         Disassembly:                    https://www.youtube.com/watch?v=cobgG8Q9dXY
 
-                        
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
                         is accessible through https://github.com/vvinhvvo98/ME_405
