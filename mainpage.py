@@ -120,25 +120,23 @@
                         
                         @image html RETURNDEMO.gif
                         
-    @section sec_8      PRACTICE FULLCOURSE DEMONSTRATION
-                        As detailed in @ref sec_1 Section, the integration of all milestones archived in  @ref sec_7 is more than sufficient to enable the autonomous two-wheeled robot ROMi to successfully complete the practice course outlined below:
+    @section sec_8      FULLCOURSE DEMONSTRATION
+                        As detailed in @ref sec_1 Section, the integration of all milestones archived in  @ref sec_7 is more than sufficient to enable the autonomous two-wheeled robot ROMi to successfully complete the practice course outlined
                         
                         The final run result in ROMI is able to complete the whole course and return to the startnig location in [33 seconds] total.
                         
                         Note: Real-time video URL link is accessible in @ref sec_yout
-                        
-                        @image html fullcourse.gif
-    
-    @section sec_yout   YOUTUBE REFERENCE
-                        All videos including all the fail and successful run can be reference and accessible in the following URL links:
-                            
-                        All Videos:                     https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
                         
                         Practice Course v1:             https://www.youtube.com/shorts/hcw71OoOBFM
                         
                         Practice Course v2:             https://www.youtube.com/shorts/IiCvUNNVnG8
                         
                         Final Demonstration Course:     https://www.youtube.com/watch?v=OuhY6JEWlXs
+    
+    @section sec_yout   YOUTUBE REFERENCE
+                        All videos including all the fail and successful run can be reference and accessible in the following URL links:
+                            
+                        All Videos:                     https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
                         
                         Disassembly:                    https://www.youtube.com/watch?v=cobgG8Q9dXY
 

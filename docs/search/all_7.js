@@ -4,7 +4,7 @@ var searchData=
   ['dc_5fspeed_5fcal_1',['DC_speed_cal',['../task___m_o_t_8py.html#aab03b2231c80d5bc00b333ed76e292ba',1,'task_MOT']]],
   ['delta_2',['delta',['../classencoder_1_1_encoder.html#ad017c0a5f382fe0dac6ed8920ce90635',1,'encoder::Encoder']]],
   ['demo_3',['MILESTONES DEMO',['../index.html#sec_7',1,'']]],
-  ['demonstration_4',['PRACTICE FULLCOURSE DEMONSTRATION',['../index.html#sec_8',1,'']]],
+  ['demonstration_4',['FULLCOURSE DEMONSTRATION',['../index.html#sec_8',1,'']]],
   ['design_5',['design',['../hardware.html#sec_br6',1,'Final Design'],['../index.html#sec_5',1,'FINAL DESIGN']]],
   ['diagram_6',['diagram',['../diagram.html#task_imu',1,'IMU Task State Diagram'],['../diagram.html#task_mot',1,'Motor Task Diagram'],['../diagram.html#task_dia',1,'Task Diagram'],['../index.html#sec_6',1,'TASK DIAGRAM'],['../diagram.html#task_uks',1,'Ultrsonic Sensor Task State Diagram']]],
   ['diagram_20br_7',['Servo Task State Diagram                    &lt;br&gt;',['../diagram.html#task_servo',1,'']]],
