@@ -125,6 +125,10 @@
                         
                         The final run result in ROMI is able to complete the whole course and return to the starting location in [33 seconds] total.
                         
+                        The final course setup is described in figure below for competitors.
+                        
+                        @image html track.png
+                        
                         Note: Real-time video URL link is accessible in @ref sec_yout
                         
                         Practice Course v1:             https://www.youtube.com/shorts/hcw71OoOBFM
