@@ -138,7 +138,29 @@
                         Final Demonstration Course:     https://www.youtube.com/watch?v=OuhY6JEWlXs
                         
                         Disassembly:                    https://www.youtube.com/watch?v=cobgG8Q9dXY
-    
+
+    @section sec_futu   FUTURE IMPORVEMENT
+                        Line Following Improvement:
+
+                        To enhance line following, integrating an analog line sensor is recommended. 
+                        This sensor offers smoother tracking and greater reliability compared to other types. 
+                        Its incorporation would be crucial for implementing a Proportional-Integral-Derivative (PID) controller. 
+                        This controller would optimize the robot's path following, allowing it to navigate as efficiently as the hardware permits.
+
+                        Wall Obstacle Navigation:
+
+                        For better wall obstacle navigation, upgrading to a more advanced IMU sensor is advisable. 
+                        This sensor would provide quicker and more accurate angular data, enabling the robot to make more precise turns. 
+                        Such an improvement would not only aid in obstacle avoidance but also ensure a safer return to the 'Home' position.
+
+                        Home Return Strategy:
+
+                        The current strategy for returning home involves moving first in the global Y direction and then in the X direction. 
+                        However, this approach does not account for potential obstacles during the return journey. 
+                        To address this, considering tracking the coordinates of the entire wall obstacle. 
+                        By incorporating this data into the robot's navigation system, considering develop logic in the code that differentiates between various return scenarios. 
+                        This enhancement would enable the robot to choose the most efficient route back, avoiding any obstacles in its path.
+                        
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                             

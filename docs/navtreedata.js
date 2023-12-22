@@ -33,6 +33,7 @@ var NAVTREE =
     [ "TASK DIAGRAM", "index.html#sec_6", null ],
     [ "MILESTONES DEMO", "index.html#sec_7", null ],
     [ "FULLCOURSE DEMONSTRATION", "index.html#sec_8", null ],
+    [ "FUTURE IMPORVEMENT", "index.html#sec_futu", null ],
     [ "YOUTUBE REFERENCE", "index.html#sec_yout", null ],
     [ "REPOSITORY REFERENCE", "index.html#sec_repo", null ],
     [ "Project Diagrams", "diagram.html", [
