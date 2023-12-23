@@ -53,8 +53,7 @@
                         
     @section sec_br7    CAD REFERENCE
                         All CAD modeling from SolidWorks can be access in the "CAD" folder through
-                        https://github.com/vvinhvvo98/ME405
-                         
+                        https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
                         
    @author              Vinh Vo
    @author              Quinlan Stephens

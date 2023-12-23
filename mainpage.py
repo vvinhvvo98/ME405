@@ -170,7 +170,7 @@
 
     @section sec_repo   REPOSITORY REFERENCE
                         All code that will be referenced in this portfolio relate to ROMI project
-                        is accessible through https://github.com/vvinhvvo98/ME405
+                        is accessible through https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
                         
                         However, you may find it more useful to read through
                         the labs before looking around there. 

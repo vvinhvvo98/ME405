@@ -5,7 +5,7 @@
                         However, simulating animations in Python presents certain challenges. 
                         To address this, the animation aspect is tackled using MATLAB, which offers more convenience for this purpose.
                         For reference and further exploration, both the Jupyter Notebook file and the MATLAB file used in these simulations are available.
-                        These files can be accessed through the provided GitHub link at https://github.com/vvinhvvo98/ME405  
+                        These files can be accessed through the provided GitHub link at https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/  
                         The specific files are named `Animation.mlx` for the MATLAB animation and `HW0x03.ipynb` for the Jupyter Notebook simulation.
                         
     @section sec_sim1   Hand Calculation
