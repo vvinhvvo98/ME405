@@ -176,6 +176,5 @@
                         the labs before looking around there. 
                        
    @author              Vinh Vo
-   @author              Quinlan Stephens
    @date                Dec 12, 2023
 '''

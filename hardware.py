@@ -56,6 +56,5 @@
                         https://vvinhvvo98.github.io/ROMI-Two-Wheels-Robot/
                         
    @author              Vinh Vo
-   @author              Quinlan Stephens
    @date                Dec 12, 2023
 '''
