@@ -164,7 +164,7 @@
     @section sec_yout   YOUTUBE REFERENCE
                         All videos including all the fail and successful run can be reference and accessible in the following URL links:
                             
-                        All Videos:                     https://www.youtube.com/channel/UCh_4F4CJVqvAhHmCMTvIb-w
+                        All Videos:                     https://www.youtube.com/watch?v=OuhY6JEWlXs&list=PLlT9z-PWNXdNjwoyCqrZTsPmyriopg6Mu
                         
                         
 
